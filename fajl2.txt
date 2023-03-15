@@ -1,2 +1,3 @@
 dodajem red u fajl
 novi red u fajlu
+i još jedan red
