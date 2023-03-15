@@ -1,0 +1,2 @@
+dodajem red u fajl
+novi red u fajlu
